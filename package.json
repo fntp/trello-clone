@@ -21,7 +21,7 @@
     "url": "https://github.com/knowankit/trello-clone/issues"
   },
   "engines": {
-    "node": "16.x"
+    "node": "16.20.0"
   },
   "homepage": "https://github.com/knowankit/trello-clone#readme",
   "dependencies": {
